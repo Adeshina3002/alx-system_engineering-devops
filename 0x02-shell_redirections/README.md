@@ -8,3 +8,4 @@
 # create a file and append a text into the file
 # write the content of a command into another file
 # script that duplicates the last line of a file
+# delete all regular file with a particular extension in the current directories and all its subdirectories
