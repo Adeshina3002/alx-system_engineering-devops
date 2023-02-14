@@ -6,3 +6,4 @@
 # Display the first 10 lines of a file
 # script that displays the third line of a file
 # create a file and append a text into the file
+# write the content of a command into another file
