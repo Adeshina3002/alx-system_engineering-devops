@@ -7,3 +7,4 @@
 # script that displays the third line of a file
 # create a file and append a text into the file
 # write the content of a command into another file
+# script that duplicates the last line of a file
